@@ -1,8 +1,8 @@
-##Basic RStudio Tools
+# Basic RStudio Tools
 
 Basic tools to facilitate repetitive analyses in R (some functions are only available in RStudio)
 
-#Start_RStudio.R
+## Start_RStudio.R
 
 A useful code snippet to adjust your RStudio environment to start your code with a clean slate:
 - Remove existing variables
@@ -12,7 +12,7 @@ A useful code snippet to adjust your RStudio environment to start your code with
 - Set time zone
 - Clear console
 
-#SummaryStats.R:
+## SummaryStats.R:
 
 A basic but necessary tool to summarize numeric and categorical variables as initial steps to get to know your data and standard data description for research and documentation:
 - Designed for dataframes containing numerical and categorical variables.
